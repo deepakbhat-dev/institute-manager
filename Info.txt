@@ -1,0 +1,14 @@
+                                            ANSPRO TECHNOLOGIES
+
+        COURSES			DURATION                      FEES
+______________________________________________________________	
+
+        C&C++			1 Months		          3000
+
+        Java&JavaScript        		2 Months		          3500
+
+        PHP&Pearl			2 Months		          5000	
+
+        HTML			2 Months		          4000
+
+        Python&DJango                             3 Months                           6000
